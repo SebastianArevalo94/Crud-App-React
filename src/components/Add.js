@@ -14,7 +14,6 @@ export default function Add() {
     price: '',
     description: '',
     genre: '',
-    cover: '',
     platform: '',
   });
 
